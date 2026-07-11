@@ -289,7 +289,7 @@
 
 - [BoomBot](https://github.com/MrBoomDeveloper/BoomBot) - A nice bot with bunch of useful things 
 
-- [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) - Bilingual group bot for photo-backed weekly weight goals, progress charts, reminders, and achievements. [GitHub](https://github.com/IgorShadurin/weight-telegram-bot)
+- [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) - Group bot for photo-backed weekly weight goals, progress charts, reminders, and achievements in English, Russian, and Chinese. [GitHub](https://github.com/IgorShadurin/weight-telegram-bot)
 
 ### ➤ Tools
 
